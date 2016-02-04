@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VLCMidiRemote.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VLCPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1234</Value>
+    </Setting>
+    <Setting Name="VLCAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1:8080</Value>
+    </Setting>
+    <Setting Name="VLCPlaylist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Videos\sd.playlist.xspf</Value>
+    </Setting>
+    <Setting Name="VLCPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\VideoLAN\VLC\vlc.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
