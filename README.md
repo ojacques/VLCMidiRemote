@@ -8,6 +8,10 @@ MIDI can be wired or wireless, using the awesome [rtpMIDI project](http://www.to
 
 ![Setup](doc/setup.jpg)
 
+# Download
+
+Head over to https://github.com/ojacques/VLCMidiRemote/releases
+
 # MIDI library
 I'm taking advantage of the awesome MIDI library originally 
 from [Leslie SANFORD](http://www.codeproject.com/Articles/6228/C-MIDI-Toolkit) 
