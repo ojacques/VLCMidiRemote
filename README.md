@@ -1,4 +1,4 @@
-![VLC Midi Remote](doc/VLC Midi Remote.png)
+![VLC Midi Remote](doc/VLC%20Midi%20Remote.png)
 
 # VLC Midi Remote
 VLC Midi remote is a small Windows utility to control VLC Media Player with MIDI commands.
