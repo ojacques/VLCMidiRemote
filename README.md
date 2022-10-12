@@ -32,3 +32,4 @@ and now maintained by Tebjan Halm at
   - `VLCPassword`: password for http remote control if you did set it up in VLC
   
   
+The application reacts on NoteOn events. It maps C3 to the first video in the playlist. C#3 will trigger the second video in the playlist.
